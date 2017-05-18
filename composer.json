@@ -1,0 +1,6 @@
+{
+    "require": {
+        "voku/simple-mysqli": "^4.4",
+        "filp/whoops": "^2.1"
+    }
+}
